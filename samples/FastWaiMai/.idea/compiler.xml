@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="FastEC.example" target="1.8" />
+      <module name="FastEC.latte-core" target="1.8" />
+      <module name="FastEC.latte-ec" target="1.8" />
+      <module name="FastEC.latte-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

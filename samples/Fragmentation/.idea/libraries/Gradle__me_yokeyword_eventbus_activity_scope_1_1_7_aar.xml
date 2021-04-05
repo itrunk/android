@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: me.yokeyword:eventbus-activity-scope:1.1.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/eventbus-activity-scope-1.1.7.aar/9cc40bb436f72e8dcf175525469595c7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/eventbus-activity-scope-1.1.7.aar/9cc40bb436f72e8dcf175525469595c7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/eventbus-activity-scope-1.1.7.aar/9cc40bb436f72e8dcf175525469595c7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/eventbus-activity-scope/1.1.7/635b63be067e6c6abc36ee235da91ba6e42eadd7/eventbus-activity-scope-1.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

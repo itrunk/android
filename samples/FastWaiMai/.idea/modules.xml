@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FastEC.iml" filepath="$PROJECT_DIR$/.idea/modules/FastEC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example/FastEC.example.iml" filepath="$PROJECT_DIR$/.idea/modules/example/FastEC.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/latte-annotations/FastEC.latte-annotations.iml" filepath="$PROJECT_DIR$/.idea/modules/latte-annotations/FastEC.latte-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/latte-compiler/FastEC.latte-compiler.iml" filepath="$PROJECT_DIR$/.idea/modules/latte-compiler/FastEC.latte-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/latte-core/FastEC.latte-core.iml" filepath="$PROJECT_DIR$/.idea/modules/latte-core/FastEC.latte-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/latte-ec/FastEC.latte-ec.iml" filepath="$PROJECT_DIR$/.idea/modules/latte-ec/FastEC.latte-ec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/latte-ui/FastEC.latte-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/latte-ui/FastEC.latte-ui.iml" />
+    </modules>
+  </component>
+</project>

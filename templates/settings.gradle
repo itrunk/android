@@ -1,0 +1,2 @@
+include ':empty:app'
+rootProject.name = "iTrunk"
